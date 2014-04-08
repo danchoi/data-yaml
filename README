@@ -1,3 +1,10 @@
 data-yaml
 
 Haskell experiments
+
+cabal deps:
+
+yaml
+
+installing yaml installs json2yaml and yaml2json
+
