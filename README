@@ -5,10 +5,10 @@ Haskell experiments using the yaml package (Data.Yaml library)
 installing yaml installs json2yaml and yaml2json
 
 $ c yaml2json test.yml 
-{"weight":123,"name":"joe"}[choi@sparta data-yaml]$ 
+{"weight":123,"name":"joe"}
 
 $ c yaml2json test2.yml 
-{"weight":"123","name":"joe"}[choi@sparta data-yaml]$ 
+{"weight":"123","name":"joe"}
 
 
 $ json2yaml < test.json
