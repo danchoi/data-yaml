@@ -1,3 +1,0 @@
-# source this
-
-PATH=.cabal-sanbox/bin:$PATH
