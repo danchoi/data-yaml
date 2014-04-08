@@ -1,10 +1,6 @@
 data-yaml
 
-Haskell experiments
-
-cabal deps:
-
-yaml
+Haskell experiments using the yaml package (Data.Yaml library)
 
 installing yaml installs json2yaml and yaml2json
 
